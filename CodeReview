@@ -1,3 +1,5 @@
 1 - Las bases de datos de mongo corren en una instancia local por ende no hay informacion de conductores, equipos o una tabla de posiciones
 
-2 - El hecho de que no se pued aconectar a mongo hace que la pagina crashee
+2 - El hecho de que no se pueda conectar a mongo hace que la pagina crashee
+
+Adicionalmente se recomienda tener un README para que la gente sepa como correr el proyecto y no subir la carepta node_modules ya que hace pesada la carga
