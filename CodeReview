@@ -1,0 +1,3 @@
+1 - Las bases de datos de mongo corren en una instancia local por ende no hay informacion de conductores, equipos o una tabla de posiciones
+
+2 - El hecho de que no se pued aconectar a mongo hace que la pagina crashee
